@@ -64,7 +64,7 @@ Steel_Faults_new/
 
 ### Prerequisites
 *   Node.js (v18+)
-*   Python (3.9+)
+*   Python (3.7+)
 
 ### 1. Clone the repository
 ```bash
