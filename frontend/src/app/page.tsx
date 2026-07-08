@@ -46,7 +46,7 @@ export default function Dashboard() {
       {/* HEADER ROW */}
       <motion.div variants={itemVars} className="flex justify-between items-start">
         <div>
-          <p className="text-sm font-medium text-slate-300 mb-1">Welcome back, Praveen 👋</p>
+          <p className="text-sm font-medium text-slate-300 mb-1">Welcome back👋</p>
           <h1 className="text-4xl font-extrabold text-white tracking-tight">
             Steel Plate Fault <span className="text-transparent bg-clip-text bg-gradient-to-r from-brandBlue to-brandPurple">Classifier</span>
           </h1>
